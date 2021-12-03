@@ -1,0 +1,10 @@
+https://e2095376.webdev.cmaisonneuve.qc.ca/Maisonneuve2095376/login
+
+Test user :
+
+lowell.klocko@example.com
+123456
+
+
+brando.bins@example.org
+123456
